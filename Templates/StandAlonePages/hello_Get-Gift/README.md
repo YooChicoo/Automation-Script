@@ -24,8 +24,7 @@ To build the automation, take the following steps:
 	2) Click New project.
 	3) Delete any code in the script editor and paste in the code below.
 
-====>
-
+====> https://github.com/YooChicoo/Automation-Script/blob/main/Templates/StandAlonePages/hello_Get-Gift/helloGetGift.gs <=== link 
 
 
 	4) Click Save Save icon.
